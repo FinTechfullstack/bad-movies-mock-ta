@@ -10,3 +10,5 @@ const { API_KEY } = require('../../config.js');
 // Get your API Key and save it in your config file
 
 // Don't forget to export your functions and require them within your server file
+
+module.exports = API_KEY
